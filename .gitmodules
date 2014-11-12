@@ -1,0 +1,6 @@
+[submodule "nginx"]
+	path = nginx
+	url = git@github.com:wenchaomeng/nginx.git
+[submodule "nginx_tcp_proxy_module"]
+	path = nginx_tcp_proxy_module
+	url = git@github.com:wenchaomeng/nginx_tcp_proxy_module.git
